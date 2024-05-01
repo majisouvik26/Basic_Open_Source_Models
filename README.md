@@ -2,7 +2,6 @@
 
 This repository is dedicated to my experiments with fundamental open-source models provided by Hugging Face.
 
-Image Generation with Stable Diffusion
-
-[click here](https://huggingface.co/spaces/souvikmaji22/image-generation-stable-diffusion)
-
+- Image Generation with Stable Diffusion - [click here](https://huggingface.co/spaces/souvikmaji22/image-generation-stable-diffusion)
+- Named Entity Recognition - [click here](https://huggingface.co/spaces/souvikmaji22/named-entity-recognition)
+- Image Generation with Stable Diffusion - [click here](https://huggingface.co/spaces/souvikmaji22/depth-estimation)
